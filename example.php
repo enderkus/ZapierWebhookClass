@@ -1,5 +1,5 @@
 <?php 
-require_once('webhookclass.php);
+require_once('webhookclass.php');
 
 // Calling the class.
 $zwh = new ZapierWebhook();
